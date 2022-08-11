@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=DBDBDB&height=300&section=header&text=Yook eunbyul&fontSize=70&animation=twinkling" />
-</p>
-
- 
 
 <div align="center">
   
