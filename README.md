@@ -9,7 +9,7 @@
 
 <br />
 
-<p>$\bf\huge{Skills}$</p>
+<p>$\bf\huge{Tech\ Stack}$</p>
 
 <p>$\rm\large{Javascript, Typescript, HTML/CSS, React, React\ Native, Redux, Recoil}$</p>
 
