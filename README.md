@@ -11,7 +11,7 @@
 
 <p>$\bf\huge{Skills}$</p>
 
-<p>$\rm\large{Javascript, Typescript, HTML/CSS, React, ReactNative, Redux, Recoil}$</p>
+<p>$\rm\large{Javascript, Typescript, HTML/CSS, React, React\ Native, Redux, Recoil}$</p>
 
 <br />
 
