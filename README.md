@@ -1,16 +1,29 @@
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6E6&height=300&section=header&text=yookeunbyul&fontSize=90" />
+<div align="left">
   
-# Front-end Engineer, Web Developer
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6E6&height=180&section=header&text=&fontSize=90" />
+  
+<p>$\bf\huge{˝Hi,\ I'm\ Front-end\ Engineer,\ Web\ Developer˝}$</p>
 
-  
-&nbsp;  
-  
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=si89336)](https://solved.ac/si89336/)
 
-### ⚙️ Stacks
-  
-<img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=CSS3&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=React&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white"/>
+<br />
+
+<p>$\bf\huge{Skills}$</p>
+
+<p>$\rm\large{Javascript, Typescript, HTML/CSS, React, ReactNative, Redux, Recoil}$</p>
+
+<br />
+
+<p>$\bf\huge{Experience}$</p>
+
+🏷️ Central MakeUs Challenge [CMC] - 11th Web (2022.08.21  ~ 11.19)
+
+🏷️ Rising Camp with 컴공선배 - 7th Web (2022.05.26  ~ 08.11)
+
+🏷️ SeSAC - 풀스택 웹 융합 개발자 양성 과정 (2021.08.03  ~ 2022.01.28)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=E6E6E6&height=180&section=footer&text=&fontSize=90" />
 
 </div>
 
