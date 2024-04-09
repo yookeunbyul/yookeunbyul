@@ -11,7 +11,7 @@
 
 <p>$\bf\huge{Tech\ Stack}$</p>
 
-<p>$\rm\large{Javascript, Typescript, HTML/CSS, React, React\ Native, Redux, Recoil, styled-components}$</p>
+<p>$\rm\large{Javascript, Typescript, React, React\ Native, Redux, Recoil, styled-components}$</p>
 
 <br />
 
