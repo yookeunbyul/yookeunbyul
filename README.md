@@ -17,6 +17,8 @@
 
 <p>$\bf\huge{Experience}$</p>
 
+🏷️ programmers Devcourse - [1기] K-Digital Training: 클라우드 기반 프론트엔드 엔지니어링 (2024.07.15  ~ )
+
 🏷️ Central MakeUs Challenge [CMC] - 11th Web (2022.08.21  ~ 11.19)
 
 🏷️ Rising Camp with 컴공선배 - 7th Web (2022.05.26  ~ 08.11)
