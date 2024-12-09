@@ -6,10 +6,14 @@
   `TypeScript`, `JavaScript`
   
 - **프레임워크/라이브러리**:  
-  `React`, `React Native`, `Redux`, `Recoil`, `zustand`, `React-Query`, `styled-components`, `tailwind CSS`
+  `React`, `React Native`, `Redux`, `Recoil`, `Zustand`, `TanStack Query`, `styled-components`, `tailwind CSS`
+
+- **툴**:  
+  `Git`, `GitHub`, `Stroybook`, `Notion`, `Figma`, `Slack`
+  
 
 ### ✨ 경험
-- `programmers Devcourse - [1기] K-Digital Training: 클라우드 기반 프론트엔드 엔지니어링 (2024.07.15  ~ )`
+- `programmers Devcourse - [1기] K-Digital Training: 클라우드 기반 프론트엔드 엔지니어링 (2024.07.15  ~ 2024.12.13)`
 
 - `Central MakeUs Challenge [CMC] - 11th Web (2022.08.21  ~ 11.19)`
 
