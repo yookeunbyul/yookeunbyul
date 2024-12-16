@@ -9,7 +9,7 @@
   `React`, `React Native`, `Redux`, `Recoil`, `Zustand`, `TanStack Query`, `styled-components`, `tailwind CSS`
 
 - **툴**:  
-  `Git`, `GitHub`, `Stroybook`, `Notion`, `Figma`, `Slack`
+  `Git`, `GitHub`, `Storybook`, `Notion`, `Figma`, `Slack`
   
 
 ### ✨ 경험
